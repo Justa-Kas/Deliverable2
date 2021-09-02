@@ -53,7 +53,8 @@ namespace Deliverable2
                 }
                 if (userInput.ToLower() == "bye")
                 {
-                    doesItGo = false;
+                    	Console.WriteLine("Good bye!");
+			doesItGo = false;
                 }
             }
         }
